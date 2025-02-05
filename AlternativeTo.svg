@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg enable-background="new 0 0 180 180" version="1.1" viewBox="0 0 180 180" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><script xmlns=""/>
+<style type="text/css">
+	.st0{fill:#08A0F3;}
+	.st1{fill:#0C9EF0;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{fill:#FFFFFF;}
+	.st4{mask:url(#SVGID_1_);}
+	.st5{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:11.6039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{filter:url(#Adobe_OpacityMaskFilter_00000081612576179474944790000007593930103963864728_);}
+	.st7{mask:url(#SVGID_00000055701008872365273910000011575425439133953156_);fill:#FFFFFF;}
+	.st8{fill:none;stroke:#0C9EF1;stroke-width:19.0687;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{fill:#009FE3;}
+	.st10{fill:none;stroke:#0C9EF1;stroke-width:3.7797;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#0C9EF1;stroke-width:4.9338;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#0C9EF1;stroke-width:17.2552;stroke-linecap:round;stroke-miterlimit:10;}
+	.st13{fill:#0C9EF1;}
+	.st14{filter:url(#Adobe_OpacityMaskFilter_00000017517343317316294190000009654009337248892316_);}
+	.st15{mask:url(#SVGID_00000084494227232895771210000005809288313636646788_);fill:#FFFFFF;}
+	.st16{fill:none;stroke:#0C9EF1;stroke-width:14.5887;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{filter:url(#Adobe_OpacityMaskFilter_00000107576809464915002510000005399884510176479633_);}
+	.st18{mask:url(#SVGID_00000181775107419024003460000004694978379885545089_);}
+	.st19{fill:none;stroke:#0C9EF1;stroke-width:22.2106;stroke-linecap:round;stroke-miterlimit:10;}
+	.st20{fill:#E8E8E8;}
+	.st21{fill:#B2B2B2;}
+	.st22{fill:#F7F7F7;}
+	.st23{fill:#0289D5;}
+	.st24{opacity:0.3;fill:#FFFFFF;}
+	.st25{fill:#FB604C;}
+	.st26{fill:#FDB938;}
+	.st27{fill:#2DCA45;}
+	.st28{fill:#D8D8D8;}
+	.st29{filter:url(#Adobe_OpacityMaskFilter_00000174567656071318838570000006107388942887015808_);}
+	.st30{mask:url(#SVGID_00000171692855612044451160000003686633687135052689_);}
+	.st31{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:2.3575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st32{filter:url(#Adobe_OpacityMaskFilter_00000136386922184780819540000010176045312033891216_);}
+	.st33{mask:url(#SVGID_00000031894304527169080660000009968197718448059813_);fill:#FFFFFF;}
+	.st34{fill:#2E2E2E;}
+	.st35{fill:#494949;}
+	.st36{fill:#12171A;}
+	.st37{fill:#1C2226;}
+	.st38{opacity:0.5;fill:#A4BFD0;}
+	.st39{fill:#2B2B2B;}
+	.st40{fill:#898989;}
+	.st41{filter:url(#Adobe_OpacityMaskFilter_00000021800741973521221820000012195215578447364026_);}
+	.st42{mask:url(#SVGID_00000062873381229498628280000013490940893694258064_);}
+	.st43{filter:url(#Adobe_OpacityMaskFilter_00000183230178266805449830000016591184096030221459_);}
+	.st44{mask:url(#SVGID_00000177468438037631677920000004082507799779843979_);fill:#FFFFFF;}
+	.st45{filter:url(#Adobe_OpacityMaskFilter_00000027593810892790676140000010272229515846077622_);}
+	.st46{mask:url(#SVGID_00000066488601327352749360000000224322164906521236_);}
+	.st47{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:9.9645;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st48{filter:url(#Adobe_OpacityMaskFilter_00000111169141411729343030000011257519431125765786_);}
+	.st49{mask:url(#SVGID_00000010290949050384770280000001627709895489362077_);fill:#FFFFFF;}
+	.st50{fill:none;stroke:#B2B2B2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st51{fill:none;stroke:#0C9EF1;stroke-width:12.0392;stroke-linecap:round;stroke-miterlimit:10;}
+	.st52{fill:none;stroke:#0C9EF1;stroke-width:2.3939;stroke-linecap:round;stroke-miterlimit:10;}
+	.st53{fill:none;stroke:#0C9EF1;stroke-width:11.4121;stroke-linecap:round;stroke-miterlimit:10;}
+	.st54{fill:none;stroke:#0C9EF1;stroke-width:15.2892;stroke-linecap:round;stroke-miterlimit:10;}
+	.st55{fill:none;stroke:#0C9EF1;stroke-width:3.4586;stroke-linecap:round;stroke-miterlimit:10;}
+	.st56{fill:none;stroke:#0C9EF1;stroke-width:16.5863;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st57{fill:none;stroke:#0C9EF1;stroke-width:4.2859;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st58{fill:none;stroke:#0C9EF1;stroke-width:3.1562;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st59{fill:none;stroke:#0C9EF1;stroke-width:2.9827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st60{fill:none;stroke:#0C9EF1;stroke-width:15.3971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st61{filter:url(#Adobe_OpacityMaskFilter_00000022558889072960858760000010603288986280188349_);}
+	.st62{mask:url(#SVGID_00000020365510448874714790000007955114880030360749_);fill:#FFFFFF;}
+	.st63{fill:none;stroke:#0C9EF1;stroke-width:12.3373;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st64{filter:url(#Adobe_OpacityMaskFilter_00000101087463825195182260000001114946871629855915_);}
+	.st65{mask:url(#SVGID_00000157269732252140023370000006597055296226214535_);}
+	.st66{fill:none;stroke:#0C9EF1;stroke-width:18.7829;stroke-linecap:round;stroke-miterlimit:10;}
+	.st67{filter:url(#Adobe_OpacityMaskFilter_00000102538538831092743430000005726036848907843988_);}
+	.st68{mask:url(#SVGID_00000067198842821655296960000005592430642643793574_);fill:#FFFFFF;}
+	.st69{fill:none;stroke:#0C9EF1;stroke-width:2.6848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st70{filter:url(#Adobe_OpacityMaskFilter_00000146463368147317818740000005416566471388161437_);}
+	.st71{mask:url(#SVGID_00000160177887302311384940000014592308455552776106_);}
+	.st72{fill:none;stroke:#0C9EF1;stroke-width:4.0875;stroke-linecap:round;stroke-miterlimit:10;}
+	.st73{filter:url(#Adobe_OpacityMaskFilter_00000057845463139596942740000016529816191375521968_);}
+	.st74{mask:url(#SVGID_00000016074136352502449790000010470996728817272202_);fill:#FFFFFF;}
+	.st75{filter:url(#Adobe_OpacityMaskFilter_00000127740234469935651450000014336179341707065528_);}
+	.st76{mask:url(#SVGID_00000180333273274232572660000013973035806118572475_);}
+	.st77{fill:none;stroke:#0C9EF1;stroke-width:3.0924;stroke-linecap:round;stroke-miterlimit:10;}
+	.st78{fill:#386D90;}
+	.st79{fill:none;stroke:#386D90;stroke-width:3.3912;stroke-linecap:round;stroke-miterlimit:10;}
+	.st80{filter:url(#Adobe_OpacityMaskFilter_00000111192652684879469880000003584582476225418136_);}
+	.st81{mask:url(#SVGID_00000077321962281444359670000003149902497786769806_);fill:#FFFFFF;}
+	.st82{fill:none;stroke:#0C9EF1;stroke-width:3.4587;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st83{filter:url(#Adobe_OpacityMaskFilter_00000132060858965922728450000001398842885531927727_);}
+	.st84{mask:url(#SVGID_00000150075929117091923910000016899315025618498724_);}
+	.st85{fill:none;stroke:#0C9EF1;stroke-width:5.2657;stroke-linecap:round;stroke-miterlimit:10;}
+	.st86{filter:url(#Adobe_OpacityMaskFilter_00000041258291649123865970000004859976255787964568_);}
+	.st87{mask:url(#SVGID_00000172407968382592146600000003889124119120249274_);fill:#FFFFFF;}
+	.st88{fill:none;stroke:#0C9EF1;stroke-width:3.6842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st89{filter:url(#Adobe_OpacityMaskFilter_00000104703013516886523740000007465950041160170403_);}
+	.st90{mask:url(#SVGID_00000006696838764059685180000017839944044618135185_);}
+	.st91{fill:none;stroke:#0C9EF1;stroke-width:5.609;stroke-linecap:round;stroke-miterlimit:10;}
+	.st92{filter:url(#Adobe_OpacityMaskFilter_00000040568284541055417990000001220878942305232824_);}
+	.st93{mask:url(#SVGID_00000056390112581755050770000015649625061832103072_);fill:#FFFFFF;}
+	.st94{fill:none;stroke:#0C9EF1;stroke-width:3.7991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st95{filter:url(#Adobe_OpacityMaskFilter_00000134967799953312279800000011180162418079533496_);}
+	.st96{mask:url(#SVGID_00000111907718478833037410000018385853436762593982_);}
+	.st97{fill:none;stroke:#0C9EF1;stroke-width:5.7839;stroke-linecap:round;stroke-miterlimit:10;}
+	.st98{filter:url(#Adobe_OpacityMaskFilter_00000160184256733057487250000014839684849205278338_);}
+	.st99{mask:url(#SVGID_00000125596758237631063950000002321615395364664732_);fill:#FFFFFF;}
+	.st100{fill:none;stroke:#0C9EF1;stroke-width:3.8158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st101{filter:url(#Adobe_OpacityMaskFilter_00000079486571149297245400000012333738987720571832_);}
+	.st102{mask:url(#SVGID_00000013874553540375822230000004588621889858662068_);}
+	.st103{fill:none;stroke:#0C9EF1;stroke-width:5.8094;stroke-linecap:round;stroke-miterlimit:10;}
+	.st104{filter:url(#Adobe_OpacityMaskFilter_00000164498939694154632900000015667179567147130254_);}
+	.st105{mask:url(#SVGID_00000175320230870023189620000001466308358047763611_);}
+	.st106{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:2.5862;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st107{filter:url(#Adobe_OpacityMaskFilter_00000035495045801561038800000012627808587094722967_);}
+	.st108{mask:url(#SVGID_00000088832064930598022920000012711186458712672703_);fill:#FFFFFF;}
+	.st109{filter:url(#Adobe_OpacityMaskFilter_00000036949689063312857660000018319577748318626963_);}
+	.st110{mask:url(#SVGID_00000054257985968546435620000003028232300488214169_);}
+	.st111{filter:url(#Adobe_OpacityMaskFilter_00000091694709137486360240000011404199418445686193_);}
+	.st112{mask:url(#SVGID_00000137106016219574822970000002007296803244220083_);}
+	.st113{filter:url(#Adobe_OpacityMaskFilter_00000008842558518280033490000005487198198356269473_);}
+	.st114{mask:url(#SVGID_00000005237817517401134830000010156091373013883802_);}
+	.st115{filter:url(#Adobe_OpacityMaskFilter_00000120518860965190229800000006374910388875856059_);}
+	.st116{mask:url(#SVGID_00000100381760584938940780000001604545409002680754_);}
+	.st117{filter:url(#Adobe_OpacityMaskFilter_00000173120464863058058670000014468491960778244784_);}
+	.st118{mask:url(#SVGID_00000183936983986940287690000007008003454647445649_);}
+	.st119{fill:none;stroke:#0C9EF1;stroke-width:3.8265;stroke-linecap:round;stroke-miterlimit:10;}
+	.st120{filter:url(#Adobe_OpacityMaskFilter_00000040560018891361312950000006899934039701119902_);}
+	.st121{mask:url(#SVGID_00000040541599251259673600000010878619908809886084_);}
+	.st122{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:3.1319;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st123{filter:url(#Adobe_OpacityMaskFilter_00000106840899211993218300000014996869555826905246_);}
+	.st124{mask:url(#SVGID_00000166663644956458634780000012246955484120325004_);}
+	.st125{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:3.1857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st126{filter:url(#Adobe_OpacityMaskFilter_00000142169495148702499080000007931962981567997320_);}
+	.st127{mask:url(#SVGID_00000096027433536020379400000003658777208897222307_);}
+	.st128{filter:url(#Adobe_OpacityMaskFilter_00000000219340260936563470000014688882880594877878_);}
+	.st129{mask:url(#SVGID_00000029728989913241653160000006251202537693342095_);fill:#FFFFFF;}
+	.st130{fill:none;stroke:#0C9EF1;stroke-width:3.1488;stroke-linecap:round;stroke-miterlimit:10;}
+	.st131{fill:none;stroke:#0C9EF1;stroke-width:3.8705;stroke-linecap:round;stroke-miterlimit:10;}
+	.st132{fill:none;stroke:#0C9EF1;stroke-width:4.5348;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st133{fill:none;stroke:#0C9EF1;stroke-width:3.8855;stroke-linecap:round;stroke-miterlimit:10;}
+	.st134{fill:none;stroke:#0C9EF1;stroke-width:5.238;stroke-linecap:round;stroke-miterlimit:10;}
+	.st135{clip-path:url(#SVGID_00000099637513969012441680000004564546526475102605_);}
+	.st136{clip-path:url(#SVGID_00000039096411791322962040000009952212448411952521_);fill:#FFFFFF;}
+	.st137{clip-path:url(#SVGID_00000039096411791322962040000009952212448411952521_);}
+	.st138{clip-path:url(#SVGID_00000163780730958579827280000002003892762525355140_);fill:#08A0F3;}
+	.st139{clip-path:url(#SVGID_00000163780730958579827280000002003892762525355140_);}
+	.st140{clip-path:url(#SVGID_00000062193816342762101910000001895748590365173136_);}
+	.st141{clip-path:url(#SVGID_00000015343688287380463510000004453373102102228666_);}
+	.st142{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:2.8742;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st143{filter:url(#Adobe_OpacityMaskFilter_00000021814868495382378270000008229269251136479882_);}
+	
+		.st144{mask:url(#SVGID_00000086663904608174395750000009277485319820033451_);fill:#0C9EF0;stroke:#0C9EF0;stroke-width:2.2695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st145{clip-path:url(#SVGID_00000150801491006033511840000007996630407033791661_);fill:#FFFFFF;}
+	.st146{fill:#04668C;}
+	.st147{clip-path:url(#SVGID_00000180353430542390234110000006609448617176281505_);fill:#FFFFFF;}
+	.st148{fill:#1976D2;}
+	.st149{clip-path:url(#SVGID_00000043431068423022938400000004589057511568068792_);fill:#FFFFFF;}
+	.st150{fill:#027BBF;}
+	.st151{clip-path:url(#SVGID_00000168084405405521071700000013405831401202777243_);fill:#FFFFFF;}
+	.st152{clip-path:url(#SVGID_00000005228735167665101420000010784500126627600006_);fill:#FFFFFF;}
+	.st153{filter:url(#Adobe_OpacityMaskFilter_00000026138641738212969130000010507191211439370666_);}
+	.st154{mask:url(#SVGID_00000113346920342131867330000005344463288352573852_);}
+	.st155{fill:#386D90;stroke:#386D90;stroke-width:2.7737;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st156{fill:#386D90;stroke:#386D90;stroke-width:3.1383;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st157{fill:#386D90;stroke:#386D90;stroke-width:3.2051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st158{filter:url(#Adobe_OpacityMaskFilter_00000033365163697599582110000003960962383789422010_);}
+	.st159{mask:url(#SVGID_00000047045258258612169690000004195726420559764127_);}
+	.st160{filter:url(#Adobe_OpacityMaskFilter_00000127733869775300424970000014832558593377296019_);}
+	.st161{mask:url(#SVGID_00000066488889060295110200000003007055260444813959_);}
+	.st162{fill:none;stroke:#386D90;stroke-width:5.326;stroke-linecap:round;stroke-miterlimit:10;}
+	.st163{fill:#003A5B;}
+	.st164{fill:none;stroke:#003A5B;stroke-width:3.8265;stroke-linecap:round;stroke-miterlimit:10;}
+	.st165{filter:url(#Adobe_OpacityMaskFilter_00000113313408447737787650000014801520104954650787_);}
+	.st166{mask:url(#SVGID_00000168839939788485131980000015468208295638914946_);}
+	.st167{fill:#003A5B;stroke:#003A5B;stroke-width:3.1319;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st168{fill:#003A5B;stroke:#003A5B;stroke-width:3.5362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st169{filter:url(#Adobe_OpacityMaskFilter_00000027573236528734973110000001058616543377218947_);}
+	.st170{mask:url(#SVGID_00000113352965368879078910000001086746603734886584_);}
+	.st171{filter:url(#Adobe_OpacityMaskFilter_00000116205071345337974040000012787726281740199834_);}
+	.st172{mask:url(#SVGID_00000148645587299653539170000007584911951743699868_);}
+	.st173{fill:none;stroke:#003A5B;stroke-width:5.7839;stroke-linecap:round;stroke-miterlimit:10;}
+	.st174{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:3.6902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st175{fill:#0C9EF0;stroke:#0C9EF0;stroke-width:3.0147;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st176{filter:url(#Adobe_OpacityMaskFilter_00000003815213268723320380000018360529302834049708_);}
+	.st177{mask:url(#SVGID_00000088834792791001894030000003960872382716450690_);}
+	.st178{filter:url(#Adobe_OpacityMaskFilter_00000175280615969097943670000003771253038362172548_);}
+	.st179{mask:url(#SVGID_00000094610078831726383710000006957850897241235599_);}
+</style>
+<switch>
+	<foreignObject width="1" height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+		
+	</foreignObject>
+	<g>
+		<circle class="st23" cx="90" cy="90" r="90"/>
+		
+			
+				<defs>
+					<circle id="b" cx="90" cy="90" r="77.49"/>
+				</defs>
+				<clipPath id="a">
+					<use xlink:href="#b"/>
+				</clipPath>
+				<path d="m200.45 227.85c-1.88-19.74-5.87-39.36-12.35-58.11-0.41-1.37-1.33-4.21-2.05-6.39 0 0.01-0.01 0.01-0.01 0.02-2.51-7.93-5.5-15.69-8.96-23.23v-0.02c-5.91-12.92-14.44-33.29-29.05-35.65-29.35-4.75-60.21 4.76-85.25 19.87-5.87 3.54-12.34 7.06-16.52 12.66-3.7 4.98-5.13 11.18-5.96 17.21-0.27 1.98-0.48 3.97-0.68 5.96-3.84 38.3 2.46 84.87 5.48 95.12 1.51 5.12 2.31 8.47 7.98 9.47 10.18 1.8 20.45 3.18 30.76 3.94 27.07 1.97 54.74-0.44 80.59-8.97 6.28-2.07 12.32-4.83 18.18-7.91 5.33-2.81 11.79-5.59 15.76-10.26 3.31-3.94 2.53-8.99 2.08-13.71zm-101.23-80.6c0.51-0.58 1.18-0.94 1.71-1.23l0.3-0.16c9.34-5.23 19.27-9.4 29.52-12.39 0.28-0.08 0.56-0.17 0.84-0.26-0.18-0.46-0.36-0.92-0.54-1.39-0.78-2.02-1.59-4.11-2.49-6.13-1.15-2.58-2.45-5.17-3.72-7.67l-0.65-1.29c-0.42-0.83-0.85-1.93-0.42-3.01 0.19-0.48 0.61-1.12 1.59-1.49 1.36-0.51 3.38 0.51 3.96 1.66 3.21 6.33 5.97 11.99 8.43 17.29 0.11 0.23 0.18 0.36 0.23 0.44 0.07-0.01 0.19-0.02 0.36-0.06 6.19-1.41 12.33-2.01 18.24-1.78 0.87 0.03 2.08 0.23 2.9 1 0.73 0.68 0.99 1.63 0.7 2.53-0.37 1.12-1.5 1.94-2.96 2.12-1.3 0.16-2.6 0.31-3.91 0.47-2.67 0.31-5.43 0.64-8.13 1.02-1.45 0.21-2.88 0.52-4.39 0.84-0.14 0.03-0.29 0.06-0.43 0.09 0.26 0.92 0.51 1.8 0.73 2.68 1.74 6.95 3.46 13.91 5.18 20.87 0.7 2.83-0.63 3.84-1.87 4.19-0.36 0.1-0.68 0.15-0.98 0.15-2.02 0-2.63-2.12-2.85-2.89-2.19-7.64-4.39-15.26-6.59-22.88-0.05-0.16-0.1-0.32-0.16-0.48-0.17 0.04-0.33 0.08-0.5 0.12-9.6 2.66-19.36 6.41-29.83 11.45-0.09 0.04-0.18 0.09-0.28 0.14-0.46 0.24-1.09 0.57-1.84 0.58h-0.02c-0.92 0-2.16-0.51-2.64-1.47-0.48-0.97-0.11-2.35 0.51-3.06zm-40.4 97.37c-2.87-4.95-4.22-10.24-4.99-15.62-4.05-13.9-4.31-28.8-4.84-43-0.27-7.3-0.38-14.61-0.35-21.91 0.01-2.69-0.13-5.38-0.11-8.07 0-0.44 0.01-0.88 0.03-1.32 0.1-3.18 0.5-6.41 1.78-9.35 1.41-3.26 3.71-5.26 6.54-7.28 5.87-4.17 12.4-7.5 18.71-10.8 0.43-0.23 1.04-0.22 1.57-0.33 0.12 0.48 0.37 0.96 0.33 1.43-0.16 2.19-0.11 4.4-0.06 6.59 0.17 7.88 0.69 15.76 1.22 23.63 0.53 7.9 1.12 15.78 1.48 23.69 0.37 8.08 0.83 16.24 3.17 24.15 0.94 3.19 2.49 8.54 7.14 9.51 2.41 0.5 4.73-0.62 6.95-1.18 7.81-1.99 15.66-3.85 23.69-5.18 7.84-1.3 15.88-1.99 23.89-1.39 1.24 0.09 2.57 0.14 3.81 0.4 0.35 0.08 0.7 0.17 1.03 0.28 0.21 0.07 0.42 0.16 0.55 0.32 0.24 0.3 0.02 0.73-0.34 0.92-0.36 0.2-0.82 0.22-1.26 0.24-2.16 0.09-4.3 0.2-6.44 0.42-2.92 0.31-5.81 0.74-8.67 1.3-15.21 2.97-29.21 8.75-42.94 14.71-5.89 2.56-11.42 5.21-16.62 8.63-4.38 2.88-8.91 5.95-12.4 9.58-1.32 1.39-1.9 1.31-2.87-0.37zm78.65 17.64c-31.86 6.17-74.59-0.66-76.71-7.78-2.11-7.09 25.71-24.71 56.49-33.3 36.92-10.31 71.75-2.78 75.11 7 3.38 9.84-16.61 26.66-54.89 34.08z" clip-path="url(#a)" fill="#fff"/>
+			
+			<path class="st3" d="m166.85 82.53c-0.17-1.69-0.44-3.36-0.76-5.03-0.23-1.24-0.49-2.47-0.75-3.71-0.28-1.33-0.52-2.67-0.84-3.99-0.47-1.91-1.01-3.79-1.63-5.66-0.61-1.83-1.3-3.64-2.06-5.42-0.75-1.76-1.57-3.49-2.46-5.18-0.88-1.68-1.83-3.32-2.84-4.92-1-1.59-2.07-3.15-3.2-4.66-1.12-1.5-2.3-2.96-3.53-4.38-1.23-1.41-2.51-2.77-3.84-4.09-1.33-1.31-2.7-2.58-4.12-3.79s-2.88-2.37-4.39-3.48c-1.5-1.11-3.05-2.16-4.62-3.15-1.58-1-3.19-1.94-4.84-2.82s-3.33-1.71-5.03-2.47c-1.71-0.77-3.44-1.47-5.2-2.11s-3.54-1.23-5.34-1.75-3.63-0.98-5.47-1.37-3.7-0.72-5.56-0.97c-1.87-0.26-3.75-0.45-5.64-0.57s-3.79-0.18-5.69-0.16c-1.91 0.02-3.82 0.11-5.72 0.27-1.91 0.16-3.82 0.4-5.72 0.7-1.91 0.31-3.82 0.69-5.7 1.15-1.91 0.46-3.79 1-5.66 1.61-1.89 0.62-3.76 1.31-5.59 2.08-1.87 0.78-3.7 1.64-5.5 2.56-0.85 0.44-1.68 0.9-2.52 1.36-22.06 12.74-36.57 35.39-38.91 60.76-0.39 7.31 0.13 14.64 1.5 21.82h-0.01s1.48 8.72 2.31 10.35c4.08 15.42 11.19 29.04 20.54 26.52 0.36-0.11 0.65-0.36 0.81-0.7 0.15-0.34 0.15-0.73 0-1.07-1.65-0.47-3.09-1.51-4.06-2.92-5.17-8.66 21.12-27.22 57.03-40.88 32.98-12.56 62.76-16.63 69.55-9.97 1.34 1.1 1.86 2.92 1.3 4.56-1.3 4.32-3.82 8.17-7.24 11.1-0.28 0.27-0.45 0.65-0.45 1.04s0.16 0.77 0.44 1.04c0.51 0.52 1.34 0.56 1.9 0.09 4.24-3.36 7.4-7.9 9.07-13.04 0.22-0.66 0.26-1.45 0.35-2.14 0.09-0.73 0.16-1.46 0.19-2.2 0.08-1.47 0.05-2.95-0.1-4.41zm-121.13 28.35c-4.39 3.12-12.05 8.7-15.26 14.93-1.25 2.4-2.42 0.53-3.15-0.83-1.72-3.8-3.12-7.74-4.2-11.77 0-0.01-0.01-0.02-0.01-0.03-0.51-1.87-2.19-8.06-2.35-9.9l0.01-0.01c-1.33-6.73-1.81-13.61-1.45-20.46 2.19-23.42 15.59-44.32 35.96-56.07 1.84-1.03 3.69-1.96 5.55-2.81 1.82-0.83 9.24-3.59 1.9 2.91-12.14 11.02-19.69 26.2-21.15 42.53-0.71 8.35 1.71 23.98 6 35.45 1.34 3.58 0.24 4.58-1.85 6.06zm86.93-38.54c-0.52 0.8-1.35 1.34-2.29 1.5-8.29 1.15-16.44 3.09-24.36 5.78-0.93 0.28-1.93 0.16-2.75-0.35-0.83-0.5-1.4-1.33-1.58-2.29l-0.62-2.86c-0.15-0.72 0.21-1.45 0.88-1.77 9.26-3.7 19.04-5.96 28.98-6.69 0.74-0.04 1.4 0.48 1.53 1.21l0.65 2.75c0.24 0.94 0.08 1.92-0.44 2.72zm15.77-14.55c-0.22 0.58-0.81 0.92-1.42 0.82-22.87-3.4-54.83 8.33-54.83 8.33-11.06 3.59-21.61 8.58-31.42 14.83-1.07 0.7-2.41 0.82-3.58 0.32s-2.02-1.55-2.26-2.8c-0.55-2.92-0.89-5.87-1.02-8.84-0.64-8.05 0.9-16.13 4.46-23.38 0.22-0.4 0.43-0.81 0.68-1.19 0.03-0.1 0.08-0.2 0.14-0.28l0.11-0.2 0.28-0.47 0.13-0.21c11.08-18.15 35.96-25.39 55.82-19.48 9.95 3.05 18.9 8.74 25.88 16.47 1.08 1.29 8.44 11.53 7.03 16.08z"/>
+			<path class="st3" d="m136.51 45.42c-3.4-5.8-8.59-10.35-14.79-12.96-6.91-2.91-14.44-4.05-21.91-3.33-2.65 0.21-5.26 0.78-7.76 1.71-0.5 0.14-0.82 0.63-0.75 1.14s0.5 0.9 1.02 0.91c5.63-0.59 11.3-0.44 16.89 0.45 20.57 4.11 27.15 14.01 27.87 14.4 0.21 0.1 0.45-0.1 0.35-0.31-0.27-0.7-0.57-1.39-0.91-2.06"/>
+		
+	</g>
+</switch>
+
+</svg>
